@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Emulator config file set to E:\Bman\Documents\GitHub\ExamCloudBeer\ExamBjarCloudBeer\ExamBjarCloudBeer\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] DiagnosticsStoreRootPath set to: C:\Users\Bman\AppData\Local\dftmp\Resources\18f392d7-d877-448f-bbd0-e4a29a3af6a9
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Loading config file: E:\Bman\Documents\GitHub\ExamCloudBeer\ExamBjarCloudBeer\ExamBjarCloudBeer\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Config file to read: E:\Bman\Documents\GitHub\ExamCloudBeer\ExamBjarCloudBeer\ExamBjarCloudBeer\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Emulator config file set to E:\Bman\Documents\GitHub\ExamCloudBeer\ExamBjarCloudBeer\ExamBjarCloudBeer\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [31-07-2016 22:15:15] Resetting DiagnosticPlugin
